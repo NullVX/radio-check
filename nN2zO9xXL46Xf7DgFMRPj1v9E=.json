@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "",
+    "communityName": "LS",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [43757],
-    "rtoChannels": [43759],
+    "radioSystems": [3],
+    "rtoChannels": [3],
     "radioChannels": [
         {
             "id": 1,
@@ -43,90 +43,6 @@
             "encrypted": false,
             "permission": 1
         },
-        {
-            "id": 2,
-            "name": "Central Law 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]Central Law 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "Tac 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-                {
-            "id": 4,
-            "name": "County Law 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]County Law 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "County Law 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]County Law 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 6,
-            "name": "Ops 3",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Ops 3[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "Central Fire",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=yellow]Central Fire[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 8,
-            "name": "County Fire",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=yellow]County Fire[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        }
     ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
